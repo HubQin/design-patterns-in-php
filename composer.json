@@ -1,0 +1,11 @@
+{
+    "name": "hubqin/design-patterns",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HubQin",
+            "email": "2910729515@qq.com"
+        }
+    ],
+    "require": {}
+}

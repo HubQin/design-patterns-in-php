@@ -7,5 +7,10 @@
             "email": "2910729515@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hubqin\\DesignPatterns\\": ""
+        }
+    }
 }

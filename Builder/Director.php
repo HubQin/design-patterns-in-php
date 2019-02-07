@@ -2,10 +2,8 @@
 namespace hubqin\DesignPatterns\Builder;
 
 /**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2019/2/6 0006
- * Time: 下午 11:02
+ * Class Director
+ * @package hubqin\DesignPatterns\Builder
  */
 class Director
 {
